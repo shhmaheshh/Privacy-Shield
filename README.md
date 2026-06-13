@@ -38,3 +38,4 @@ Privacy Shield helps users regain visibility into this process by detecting trac
 ## Project Goal
 
 The goal of Privacy Shield is to educate users about online tracking, increase transparency around data collection practices, and provide tools to help users protect their privacy while browsing the web.
+![Image Alt](https://github.com/shhmaheshh/Privacy-Shield/blob/459d0c35a8f701e7f78e0678225a1dc1566b8f51/localhost_5173_.png)
